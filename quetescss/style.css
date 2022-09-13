@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(142, 71, 71);
+}
+
+nav {
+    text-align: center;
+}
+
+ul {
+    background: rgba(165, 175, 145, 0.91);
+    display: flex;
+    justify-content: space-around;
+    padding: .8rem;
+}
+ul li{
+    list-style: none;
+    color: rgb(50, 29, 114);
+}
+
+ul li:hover {
+    color: rgb(27, 25, 25);
+}
+
+section {
+    padding: 1rem;
+    text-align: center;
+    color: rgb(42, 59, 188);
+}
